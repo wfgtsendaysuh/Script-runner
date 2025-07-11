@@ -1,0 +1,28 @@
+
+.confirm-options label {
+    display: block;
+}
+.confirm-options .vl-dropdown-menu {
+    width: 13rem;
+}
+.md-menu-content-xl {
+  max-width: unset !important;
+}
+.no-wrap {
+  white-space: normal !important;
+}
+.full-control > .md-list {
+    width: 350px;
+    max-width: 100%;
+    display: inline-block;
+    overflow: auto;
+    border: 1px solid rgba(#000, .12);
+    vertical-align: top;
+}
+
+html,
+body, #app, .editor {
+  height: 100% !important;
+  width: 100% !important;
+}
+
